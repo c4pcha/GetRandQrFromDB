@@ -1,2 +1,2 @@
-# GetRandQrFromDB
-Obtén un Qr Random|Especifico de una base de datos propia
+# QRutils
+Herramientas practicas para negocios que utilizan QR
